@@ -1,0 +1,87 @@
+.rotatable {
+    width: 100px; /* Example width, adjust as needed */
+    height: 50px; /* Example height, adjust as needed */
+     /* Ensure rotation originates from the center */
+    transform: rotate(270deg);
+}
+
+/* h1{
+    height: 100vh;
+} */
+/* .dub{
+    background-color: black;
+    background-size: COVER;
+    HEIGHT:100VH;
+    
+} */
+.leftborder{
+    
+    width:5%;
+    height:130vh;
+    background-color: black; color:white; display: flex; flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+.clean-beats{
+    font-family: 'Caveat', cursive;
+}
+.sub-home{
+    padding: 5px;
+    width:100%;
+}
+.left{
+    text-align: left;
+}
+.last-icon{
+    background-color: white; border-radius: 50%;
+    margin: 5px;
+}
+.different-text{
+    color: 
+    #A1A0A1;
+}
+.main5{
+    background-color: black;
+    color:white;
+    height: 100vh;
+    text-align: center;
+}
+.display-row{
+    display: flex;
+    flex-direction: row;
+}
+.display-column{
+    display: flex;
+    flex-direction: column;
+}
+.paragraph{
+    width: 80%;
+}
+.main4{
+    text-align: center;
+}
+.main3{
+    text-align: center;
+    background-color: black;
+    height: 100vh;
+    color: white;
+    margin-top:20px;
+    padding: 20px;
+}
+ 
+
+
+
+/* .image{
+    width:1%;
+} */
+.main1{
+    background-image: url("imagesnew/Rectangle\ 12.png");
+    background-size: cover;
+    height: 150vh;
+    display: flex;
+    flex-direction: row;
+    
+}
